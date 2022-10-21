@@ -50,3 +50,25 @@ body {
   display: flex;
   align-items: center;
 }
+footer{
+  padding: 5px; 
+  width: 100%;
+  bottom: 0;
+  position: absolute;
+  color: white;
+}
+
+footer p{
+  text-align: center;
+}
+
+footer p a{
+  text-decoration: none;
+  font-size: 1.1em;
+  font-weight: bolder;
+  color: rgb(198, 198, 198);
+}
+
+footer p a:hover{
+  color: white;
+}
